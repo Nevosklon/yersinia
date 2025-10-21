@@ -40,6 +40,11 @@ The usual way:
 make
 make install
 
+kali required and optional dependencies
+---------------------------------------
+libpcap-dev
+libnet1-dev
+libgtk2.0-dev
 
 
 Configure options
